@@ -23,7 +23,7 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
   
 <a href="https://magefan.com/magento-2-webp-optimized-images/pricing">
           <img
-            src="https://cm.magefan.com/wysiwyg/products/magento-2-webp-images-pricing.png"
+            src="https://cm.magefan.com/wysiwyg/products/webp-pricing-plans.png"
             alt="Plans and Pricing for Magento 2 WebP Images Extension" />
 </a>
 
