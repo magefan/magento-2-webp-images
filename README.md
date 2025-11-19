@@ -2,9 +2,9 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-webp-optimization-extension_1.webp">
 
-[Magento 2 WebP Images](https://magefan.com/magento-2-webp-optimized-images)  is the extension that allows you to convert your website images from png, jpg, jpeg, and gif to the webp format. It also improves the default Magento functionality and lets you upload WebP images to the admin panel.
+[Magento 2 WebP Images](https://magefan.com/magento-2-webp-optimized-images)  is the extension that allows you to convert your website images from png, jpg, jpeg, and gif to the webp format with little to no effort. It also improves the default Magento functionality and lets you upload WebP images to the admin panel.
 
-Reduce the size of your images by up to 50%, switch between the conversion modes, and monitor the process thanks to the handy stats. Optimize your images and improve website speed like never before!
+Reduce the size of your images by up to 50% without losing quality, switch between the conversion modes, and monitor the process using the handy dashboard. Optimize your images and improve website speed like never before!
 
 Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
@@ -18,14 +18,6 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
   * [FAQs](https://magefan.com/magento-2-webp-optimized-images#pattr-faq)
 
 ## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
-    
-## Editions & Pricing
-  
-<a href="https://magefan.com/magento-2-webp-optimized-images/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/webp-pricing-plans.png"
-            alt="Plans and Pricing for Magento 2 WebP Images Extension" />
-</a>
 
 ## Benefits
 
@@ -33,8 +25,7 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 * [Enhance Your SEO Ranking](https://github.com/magefan/magento-2-webp-images#enhance-your-seo-ranking)
 * [Reduce File Size Without Losing Quality](https://github.com/magefan/magento-2-webp-images#reduce-file-size-without-losing-quality)
 * [Convert Images Automatically or Manually](https://github.com/magefan/magento-2-webp-images#convert-images-automatically-or-manually)
-* [Adjust Conversion Settings to Your Requirements](https://github.com/magefan/magento-2-webp-images#adjust-conversion-settings-to-your-requirements)
-* [Convert Images From External Websites](https://github.com/magefan/magento-2-webp-images#convert-images-from-external-websites)
+* [Benefit from the Advanced Conversion Settings](https://github.com/magefan/magento-2-webp-images#adjust-conversion-settings-to-your-requirements)
 * [Upload WebP Images to Magento Admin Panel](https://github.com/magefan/magento-2-webp-images#upload-webp-images-to-magento-admin-panel)
 * [Monitor the Conversion Progress](https://github.com/magefan/magento-2-webp-images#monitor-the-conversion-progress)
 * [Provide Smooth Experience Across All Browsers](https://github.com/magefan/magento-2-webp-images#provide-smooth-experience-across-all-browsers)
@@ -42,16 +33,16 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 
 ## What is WEBP?
-Those who have been looking for the best ways to optimize the website performance must have heard something about it. WEBP is a modern file format developed by Google and supported by multiple browsers. The reason of the popularity is its size. It is considerably smaller and correspondingly takes less time to load that is especially important for Magento 2 websites with a lot of images.
+Those who have been looking for the best ways to optimize website performance must have heard something about it. WEBP is a modern file format developed by Google and supported by multiple browsers. The reason for its popularity is its size. It is considerably smaller and correspondingly takes less time to load, which is especially important for Magento 2 websites with a lot of images.
 
 ## Features
 ### Improve Website Speed and Performance
-Website performance is one of the key aspects of any eCommerce store. Different reasons could drag it down, and images are usually the top culprits. Especially, if you have thousands of them.
+Website performance is one of the key aspects of any eCommerce store. Different reasons could drag it down, and images are usually the top culprits. Especially if you have thousands of them.
 
 The longer your website loads, the worse the general performance is. You can’t let that happen. So, the Magento 2 WebP Images extension is a must-have tool to improve your website speed and create a fast website.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/magento-2-webp-images.png">
+  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp/webp-magento.png">
 </p>
 
 ### Enhance Your SEO Ranking
@@ -60,7 +51,7 @@ There is a direct link between website performance and its position in SERP. Hig
 Converting images to the WebP format is a huge step forward. If you manage to optimize your website loading, you have more chances to enhance your general SEO score.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/magento-2-optimized-seo-ranking_2.png">
+  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp/magento-seo.png">
 </p>
 
 ### Reduce File Size Without Losing Quality
@@ -69,7 +60,7 @@ Usually, reducing images in size causes them to lose quality. This is not an opt
 The Magento 2 WebP Images extension allows you to define the image quality level. Thus, you can not only reduce the size of images by up to 50%. You also get to keep their quality almost untouched. 
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/wysiwyg/products/magento-2-image-compression_1.png">
+  <img width="700" height="400" src="https://cm.magefan.com/wysiwyg/products/webp/magento-2-webp-images.png">
 </p>
 
 ### Convert Images Automatically or Manually
@@ -89,20 +80,15 @@ In any case, the available conversion modes save you from the tedious work and e
   <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/magento-convert-images-to-webp_1.png">
 </p>
 
-### Adjust Conversion Settings to Your Requirements
+### Benefit from the Advanced Conversion Settings
 The advanced settings of the Magento 2 WebP Images Extension allow you to create the most fitting setup for your specific case.
 
-You can choose to skip some folders during the conversion, convert images in the CSS background, as well as convert the HTML <picture> tag images. This tool is extremely flexible working in various scenarios.
+You can choose to skip some folders during the conversion, convert images in the CSS background, convert the HTML <picture> tag images, as well as convert images from external websites. This tool is extremely flexible for various scenarios.
 
 Just choose the corresponding settings to make the most out of this module!
 
-### Convert Images From External Websites
-Do you feature images from external websites and want to convert them to WebP as well? This Magento 2 WebP Images tool has you covered.
-
-You can specify what websites to convert images to WebP from, and the extension will add them to the queue as well. What is more, this module is compatible with remote storage. So, you can still convert your images even if you store them separately.
-
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/advanced-webp-images-settings-magento.png">
+  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp/convert-different-images-to-webp-magento.png">
 </p>
 
 ### Upload WebP Images to Magento Admin Panel
@@ -111,37 +97,41 @@ Converting images to WebP is a great solution. At the same time, you may be wond
 This is why this Magento WebP Converter has another useful option. It allows you to upload images in the .webp format to the admin panel. So, you can both upload and convert images to WebP with this feature-rich tool.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/upload-webp-images-to-magento-admin.png">
+  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp/upload-webp-to-magento.png">
 </p>
 
 ### Monitor the Conversion Progress
 When converting your images to the WebP format, you would certainly want to keep an eye on the process. It will help you see the state of things and avoid any inconsistencies. 
 
-This is why the Magento 2 WebP Images Extension offers you in-depth statistics on the image conversion process. Use vivid graphs to see how many images have been converted and how many are pending. Monitor the compression level and image sizes throughout the process.
+This is why the Magento 2 WebP Images Extension offers you an in-depth dashboard of the image conversion process. Use vivid graphs to see how many images have been converted and how many are pending. Monitor the compression level and image sizes throughout the process.
 
 This section contains invaluable insights you shouldn’t miss!
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/magento-webp-images-reports.png">
+  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp/magento-2-webp-images-extension.png">
 </p>
 
 ### Provide Smooth Experience Across All Browsers
-The WebP file format is quite innovative and a great deal of browsers support it. Yet, there are still some browsers that don’t and simply show the empty space instead of the WebP image. Not very user-friendly, right?
+The WebP file format is quite innovative, and a great deal of browsers support it. Yet, there are still some browsers that don’t and simply show the empty space instead of the WebP image. Not very user-friendly, right?
 
-This is why, the Magento 2 WebP Images extension creates the WebP copies of the original images. Then, if a browser supports WebP, the converted images are loaded; if it doesn’t, the original images are shown instead.
+This is why the Magento 2 WebP Images extension creates the WebP copies of the original images. Then, if a browser supports WebP, the converted images are loaded; if it doesn’t, the original images are shown instead.
 
-This approach ensures a seamless customer experience no matter what browser is used.
+This approach ensures a seamless customer experience, no matter the browser.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp-format-browser-compatibility.png">
+  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp/magento-images.png">
 </p>
 
-### Convert Images to WebP via REST API Requests
+### Convert Images to WebP with Adaptable Integration
 Do you implement PWA and wonder if you can use WebP images in that case? You certainly can with the Magento 2 WebP Images extension.
 
-It allows you to convert the images in REST API and GraphQL requests. Thus, you can display quality images across different storefronts and ensure the best experience for all your customers.
+It allows you to convert the images in REST API and GraphQL requests, as well as convert images from your remote storage. Thus, you can display quality images across different storefronts and ensure the best experience for all your customers.
 
 This WebP Images tool leaves no aspect uncovered!
+
+<p align="center">
+  <img width="700" height="349" src="https://cm.magefan.com/wysiwyg/products/webp/magento-webp-support.png">
+</p>
 
 ## Video Reference
 
