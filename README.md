@@ -1,4 +1,4 @@
-# [Magento 2 WebP Images](https://magefan.com/magento-2-webp-optimized-images) | Support Webp in Magento
+# [Magento 2 WebP Images](https://magefan.com/magento-2-webp-optimized-images) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-webp-optimization-extension_1.webp">
 
